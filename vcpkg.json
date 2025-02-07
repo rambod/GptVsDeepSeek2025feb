@@ -1,0 +1,9 @@
+{
+    "name": "gptvsdeepseek",
+    "version": "0.1.0",
+    "description": "GPTVsDeepSeek",
+    "license": "MIT",
+    "dependencies": [
+        "sfml"
+    ]
+}

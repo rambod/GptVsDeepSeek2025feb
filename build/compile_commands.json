@@ -1,0 +1,8 @@
+[
+{
+  "directory": "L:/Projects/Cpp/GptVsDeepSeek/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -isystem L:/Projects/Cpp/GptVsDeepSeek/vcpkg_installed/x64-windows/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\gptvsdeepseek.dir\\main.cpp.obj -c L:\\Projects\\Cpp\\GptVsDeepSeek\\main.cpp",
+  "file": "L:\\Projects\\Cpp\\GptVsDeepSeek\\main.cpp",
+  "output": "CMakeFiles\\gptvsdeepseek.dir\\main.cpp.obj"
+}
+]
