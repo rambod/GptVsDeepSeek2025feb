@@ -73,6 +73,7 @@ Check out my YouTube channel for more programming and AI-related content: [Rambo
 
 Visit my website for more tutorials and projects: [Rambod.net](https://rambod.net)
 
+https://youtu.be/eg9Zcap4jvk
 ---
 
 ## **License**
